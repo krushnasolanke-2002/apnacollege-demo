@@ -1,4 +1,5 @@
 # apnacollege-demo
 this is my first Git Repository .
 <br>
-Author - krushna solanke 
+Author - krushna (Apna college)
+
